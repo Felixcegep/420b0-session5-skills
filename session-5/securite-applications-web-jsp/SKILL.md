@@ -1,11 +1,9 @@
 ---
 name: securite-applications-web-jsp
 description: Aide spécialisée pour le cours Sécurité des applications web en JSP. Utilise jsp.brunocharb.site comme source de vérité pour Tomcat/Servlets, JSP, EL, JSTL, Spring MVC, formulaires, sessions/cookies, API REST, JPA, relations, DTO, Spring Security, JWT, OAuth2, attaques courantes et tests unitaires.
-compatibility: opencode
 metadata:
   audience: etudiant-jsp
   language: fr-CA
-  opencode/slash: "true"
 ---
 
 # Sécurité des applications Web en JSP

@@ -1,11 +1,9 @@
 ---
 name: integration-objets-connectes
 description: Aide spécialisée pour le cours 420-5P0 Intégration d'objets connectés du Cégep de l'Outaouais. Utilise le GitBook du cours comme source de vérité pour Raspberry Pi, Linux, Python, GPIO, I2C, capteurs/actionneurs, MQTT/Mosquitto, Paho MQTT, tâches asynchrones, acquisition périodique, diagnostic matériel et intégration d'un système IoT.
-compatibility: opencode
 metadata:
   audience: etudiant-420-5p0
   language: fr-CA
-  opencode/slash: "true"
 ---
 
 # 420-5P0 — Intégration d'objets connectés

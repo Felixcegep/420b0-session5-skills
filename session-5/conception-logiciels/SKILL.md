@@ -1,11 +1,9 @@
 ---
 name: conception-logiciels
 description: Aide pour le cours 420-5A4 Conception de logiciels du Cégep de l'Outaouais. Utilise le GitBook du cours comme source de vérité pour expliquer, corriger et évaluer les exigences, cas d'utilisation, modèles du domaine, DSS, modèles de données/normalisation, maquettes et documents de conception UML. À charger pour les devoirs, itérations, révision d'examen et validation de livrables du cours.
-compatibility: opencode
 metadata:
   audience: etudiant-420-5a4
   language: fr-CA
-  opencode/slash: "true"
 ---
 
 # 420-5A4 — Conception de logiciels

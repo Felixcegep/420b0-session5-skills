@@ -1,36 +1,18 @@
-# Skill OpenCode — 420-5A4 Conception de logiciels
+# AI Skill — 420-5A4 Conception de logiciels
 
-Skill spécialisé pour le cours **420-5A4 Conception de logiciels**.
+AI skill spécialisé pour le cours **420-5A4 Conception de logiciels**.
 
 ## Installation projet
 
-Copie le dossier `conception-logiciels-420-5a4` dans :
+Copie le dossier `conception-logiciels-420-5a4` dans le dossier de skills de votre projet :
 
 ```text
-<ton-projet>/.opencode/skills/
+skills/
+└── conception-logiciels-420-5a4/
+    ├── SKILL.md
+    ├── references/
+    └── templates/
 ```
-
-Tu dois obtenir :
-
-```text
-.opencode/
-└── skills/
-    └── conception-logiciels-420-5a4/
-        ├── SKILL.md
-        ├── references/
-        └── templates/
-```
-
-## Installation globale
-
-Sur macOS/Linux :
-
-```bash
-mkdir -p ~/.config/opencode/skills
-cp -R conception-logiciels-420-5a4 ~/.config/opencode/skills/
-```
-
-OpenCode peut ensuite découvrir le skill automatiquement quand ta demande correspond à sa description. Tu peux aussi le mentionner explicitement comme `@conception-logiciels-420-5a4` selon la version d'OpenCode utilisée.
 
 ## Source principale
 

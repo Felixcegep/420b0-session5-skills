@@ -1,11 +1,9 @@
 ---
 name: projet-synthese
 description: Aide spécialisée pour le cours Projet Synthèse documenté sur synthese.brunocharb.site. Utilise le site du cours comme source de vérité pour TypeScript, Angular, signaux, composants, vues, services, routes, formulaires, intercepteurs HTTP, API ASP.NET Core, Entity Framework, DTO, CORS, authentification Microsoft, tests Angular, ESLint, CI GitLab et gestion Git.
-compatibility: opencode
 metadata:
   audience: etudiant-projet-synthese
   language: fr-CA
-  opencode/slash: "true"
 ---
 
 # Projet Synthèse — Angular + ASP.NET Core

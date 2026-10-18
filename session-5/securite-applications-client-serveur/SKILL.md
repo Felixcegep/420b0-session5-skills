@@ -1,11 +1,9 @@
 ---
 name: securite-applications-client-serveur
 description: Aide spécialisée pour le cours 420-5T5-HU Sécurité des applications client/serveur du programme 420.B0 Programmation et sécurité. Aide à analyser, sécuriser et tester le client, le serveur et leurs communications, ainsi qu'à documenter une évaluation de sécurité sans inventer de conventions propres au professeur.
-compatibility: opencode
 metadata:
   audience: etudiant-420-5t5
   language: fr-CA
-  opencode/slash: "true"
 ---
 
 # 420-5T5 — Sécurité des applications client/serveur
